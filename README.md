@@ -1,7 +1,7 @@
 # alfredT
 # alfredT
 alfringoalfringoalfringoalfringolfredT
-alfringoalfringoalfringoalfringoalfringoalfringoalfringoalfringo
+alfringoalfringoalfringoalfringoalfringoalfringoalfrinlfringo
 
 # alfredT
 alfringoalfringoalfringoalfringoalfringoalfringoalf

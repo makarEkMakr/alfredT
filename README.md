@@ -1,6 +1,6 @@
 # alfredT
 # alfr1
-alfringoalfringoalfringoalfringolfredT
+alfringoalfringoalfringoalfringolfrT
 alfringoalfringoalfringoalfringoalfringoalgoalfrinlfringo
 
 # alfredT

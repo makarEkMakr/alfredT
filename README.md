@@ -1,6 +1,6 @@
 # alf
 # alfr1
-alfringoalfringoalfringoalfringolf
+alfringoalfringoalfringoalfrin
 alfringoalfringoalfringoalfringoalfringoalgoalfrinlfringo
 
 # alfredT

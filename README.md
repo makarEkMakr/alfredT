@@ -7,7 +7,7 @@ alfringoalfringoalfringoalfringoalfringoalgoalfrinlfringo
 alfringoalfringoalfringoalfringoalfringoalfringoalf
  # StylishDemon
 StylishDemon        const profileId = data.profiles[i.pumber;
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
+        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeu
 ewPa
 (resolve, 1500));browser.newPappshar
 

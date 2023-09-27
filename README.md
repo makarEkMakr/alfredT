@@ -11,7 +11,7 @@ StylishDemon        const profileId = data.profiles[i.pumber;
 ewPa
 (resolve, 1500));browser.newPappshar
 
-iles[i].id;
+iles[i
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].id;

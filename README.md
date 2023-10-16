@@ -4,8 +4,7 @@ alfringoalfringoalfringoalfrin
 alfringoalfringoalfringoalfringoalfringoalgoalfrinlfringo
 
 # alfredT
-alfringoalfringoalfringoalfringoalfringoalfringoalf
-StylishDemon        const profileId = data.iles[i        const 
+alfringoalfringoalfringoalfringoalfringoalfringoalft 
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profiles[i].password;

@@ -1,6 +1,5 @@
 # alf
 # alfr1
-alfringoalfringoalfringoalfrin
 alfringoalfringoalfringoalfringoalfringoalgoalfrinlfringo
 
 # alfredTassw

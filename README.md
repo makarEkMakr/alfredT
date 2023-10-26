@@ -1,7 +1,7 @@
 # alf
 # alfr1
 alfringoalfringoalfring
-        const profilePassword = rofiles[i].password;
+        const profiles[i].password;
         const accountNumber = daa.profiles[i].account_num
 alfringoalfringoalfringoalfringoalngoalfringoalf
  

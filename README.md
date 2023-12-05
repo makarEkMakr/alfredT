@@ -6,6 +6,5 @@ iles[i].id;ount_n
 LEASE
 
         const accountNumber =ta.profiles[iccount_num
-                        await page4.waitFelementSelector5);
-                        await page4.waitForNetworkIdle(
+                        await page4.waitFelementSlector5
 iles[i].id;ount_n

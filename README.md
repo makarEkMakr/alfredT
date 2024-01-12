@@ -6,8 +6,7 @@ lllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=lllllll
                     { browserWSEndpoin
 pet=s[i tForlementSelector5);ei].account_number
                     { browserWSEndpoin
-console.l await puppet=s[i tForlementSelector5);e
-        const accountNumber = data.profiles[i].account_number
+console.l await puppet=s[i tForlementSelector5);e_number
                     { browserWSEndpoin
 console.l await puppet=s[i tForlementSelector5);e
         const accountNumber = data.profiles[i].account_number

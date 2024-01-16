@@ -13,7 +13,6 @@ console.l await puppet=s[i tForlementSelector5);e
                     { browserWSEndpoin
                     { browserWSEndpoin
 pet=s[i tForlementSelector5);ei].account_number
-                    { browserWSEndpoin
 console.l await puppet=s[i tForlementSelector5);e_number
                     { browserWSEndpoin
 console.l await puppet=s[i tForlementSelector5);e

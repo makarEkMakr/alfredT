@@ -6,13 +6,22 @@ lllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=lllllll
                     { browserWSEndpoinmber
                     { browserWSEndpoin
         const accountNumber = data.profiles[i].account_number
-                    { browserWSEndpoin
-                    { browserWSEndpoin
-pet=s[i tForlementSelector5);ei].account_number
-                    { browserWSEndpoin
-console.l await puppet=s[i tForlementSelector5);e_number
-                    { browserWSEndpoin
-console.l await puppet=s[i tForlementSelector5);e
+                    { browserWSEndpoine(
+        const accountNumber = data.profiles[i]
+umber;.profile[i].passwors[i]s const 
+= daa.nst 
+umber;.profile[i].passwors[i]s const 
+
+umber;.profile[i].passwors[i]s const 
+umber;.profile[i].passwors[i]s const 
+= daa.nst 
+ta.profili].pasSelector
+
+
+umber;.profile[i].passwors[i]s const 
+= daa.nst 
+ta.profili].pasSelector
+
         const accountNumber = data.profiles[i].account_number
                     { browserWSEndpoin
                     { browserWSEndpoin
